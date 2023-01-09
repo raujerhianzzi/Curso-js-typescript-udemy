@@ -6,3 +6,11 @@ let umNome = 'rauje';
 
 
 console.log(nome);
+
+
+
+
+
+
+
+
