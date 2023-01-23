@@ -1,3 +1,8 @@
-const comit = ['js', 'html', 'css'];
+/*
+Dados primitivos (imutáveis) - string, number, boolean, undefined, null (bigint, symbol)
 
-console.log(comit);
+ */
+
+let nome = 'luiz';
+nome[0] = 'R';
+console.log(nome[0], nome);
